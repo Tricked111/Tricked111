@@ -9,4 +9,3 @@ Skills:
 * 📝 Latex 
 
 🧑🏾‍🤝‍🧑🏼 I also have experience with GIT and team development.
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
