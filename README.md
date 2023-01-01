@@ -6,6 +6,5 @@ Skills:
 * 💻 C  
 * 🐍 Python 
 * 🐧 Bash 
-* 📝 Latex 
 
 🧑🏾‍🤝‍🧑🏼 I also have experience with GIT and team development.
